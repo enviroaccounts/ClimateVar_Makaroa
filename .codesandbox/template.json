@@ -1,0 +1,12 @@
+{
+  "title": "Python Flask Server",
+  "description": "This is an example of a Flask server running \"hello world\"",
+  "iconUrl": "https://github.com/codesandbox/sandbox-templates/blob/main/python-flask-server/.codesandbox/icon.png?raw=true",
+  "tags": [
+    "python",
+    "pip",
+    "flask",
+    "http-server"
+  ],
+  "published": true
+}

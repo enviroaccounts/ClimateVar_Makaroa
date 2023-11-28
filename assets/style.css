@@ -1,0 +1,6 @@
+#forest-land-use-pie-chart-layout{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
